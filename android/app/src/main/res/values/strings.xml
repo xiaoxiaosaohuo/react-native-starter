@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">rEd7mxwqhWNT2bpvVRRMT5qtDU80e33797f7-3cb5-47d0-b039-888098cded04</string>
+    <string name="app_name">misMobile</string>
+</resources>

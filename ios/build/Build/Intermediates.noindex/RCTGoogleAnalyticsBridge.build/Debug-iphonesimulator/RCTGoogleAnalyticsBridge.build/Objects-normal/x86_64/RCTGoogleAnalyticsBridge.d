@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.m \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jinxin/mobile/misMobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAI.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAILogger.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITrackedViewController.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITracker.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIFields.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIDictionaryBuilder.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProduct.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProductAction.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommercePromotion.h \
+  /Users/jinxin/mobile/misMobile/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceFields.h
